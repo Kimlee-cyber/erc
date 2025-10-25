@@ -1,0 +1,12 @@
+{
+  "name": "eth-token-info-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^6.9.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
